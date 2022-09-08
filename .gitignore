@@ -128,9 +128,7 @@
 
 
 # Ignore content folders
-!/Content/Mods/ExampleLogicMod/ModActor.uasset
-!/Content/LogicMods.uasset
-!/Content/Chara/ColorData.uasset
+!/Content/
 
 # Ignore intermediate folders
 Intermediate/
