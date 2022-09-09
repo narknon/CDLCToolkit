@@ -2,6 +2,7 @@
 #include "CoreMinimal.h"
 //CROSS-MODULE INCLUDE V2: -ModuleName=Engine -ObjectName=DeveloperSettings -FallbackName=DeveloperSettings
 #include "DIControllerConfiguration.h"
+#include "Engine/DeveloperSettings.h"
 #include "DMDInputMapping.generated.h"
 
 UCLASS(Blueprintable, DefaultConfig, Config=Input)
